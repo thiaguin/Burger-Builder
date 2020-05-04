@@ -21,7 +21,7 @@ $ npm install
 
 ### Running
 
-After that run:
+After that, to run:
 
 
 ```
